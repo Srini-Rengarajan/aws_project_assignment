@@ -1,3 +1,4 @@
+import boto3
 from boto3.session import Session
 
 from flask import *
