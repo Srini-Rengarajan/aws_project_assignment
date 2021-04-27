@@ -17,7 +17,3 @@ EC2 Deployed App URL: http://18.191.168.134:8085/list?prefix=A,  http://18.191.1
 
 ![AWS_S3_Bucket_FolderA_Details](/Screenshots/AWS_S3_Bucket_FolderA_Details.PNG?raw=true "AWS_S3_Bucket_FolderA_Details")
 
-![IAM_User_Info](/Screenshots/Screenshot (20).PNG?raw=true "IAM_User_Info")
-
-![Tags_Info](/Screenshots/Screenshot (21).PNG?raw=true "Tags_Info")
-
