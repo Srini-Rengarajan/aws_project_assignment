@@ -44,5 +44,8 @@ def listFilesInS3Bucket():
 
 
 if __name__ == '__main__':
+
+    #EC2 Deployed Flask App URL: http://18.191.168.134:8085/list?prefix=A
+    #Port:8085
     app.run(debug=True)
 
